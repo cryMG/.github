@@ -2,8 +2,7 @@
 
 # cryeffect Media Group Görsch & Müller GbR
 
-📬️ Wassermannstraße 81, 12489 Berlin, Deutschland  
-🌍️ https://crymg.de  
-📨 info@crymg.de
+> [!NOTE]
+> Alle öffentlichen Repos liegen nun auf Codeberg unter <https://codeberg.org/cryMG>.
 
 [Impressum](https://crymg.de/impressum) [Datenschutz](https://crymg.de/datenschutz)
